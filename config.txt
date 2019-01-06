@@ -1,7 +1,6 @@
-?token=NTMwMjgyMDcyMDI4MzQ4NDM2.Dw9HUA.JTNw-jAatsq2dVxx9cQtP68U--s
-owner=503918316663078922
+token=NTMxMjk0OTkzOTUyOTMxODUw.DxL2pw.pE38jGSJEN5bB-Usp5xTXH9cFec 
+owner= 503918316663078922
 prefix= h
 game= !hhelp
 stayinchannel=true
 songinstatus=true 
-token=NTMwMjgyMDcyMDI4MzQ4NDM2.Dw9HUA.JTNw-jAatsq2dVxx9cQtP68U--s
