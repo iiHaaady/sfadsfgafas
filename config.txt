@@ -1,0 +1,7 @@
+?token=NTMwMjgyMDcyMDI4MzQ4NDM2.Dw9HUA.JTNw-jAatsq2dVxx9cQtP68U--s
+owner=503918316663078922
+prefix= h
+game= !hhelp
+stayinchannel=true
+songinstatus=true 
+token=NTMwMjgyMDcyMDI4MzQ4NDM2.Dw9HUA.JTNw-jAatsq2dVxx9cQtP68U--s
